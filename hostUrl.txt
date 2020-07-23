@@ -1,4 +1,1 @@
-{
-"0":"http://uri-api.yindui.net/?app=yutang",
-"2":"http://uri-api.yindui.net/?app=yutang"
-}
+host_url:{"0":"http://uri-api.yindui.net/?app=yutang","2":"http://uri-api.yindui.net/?app=yutang"}
